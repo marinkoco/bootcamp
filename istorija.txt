@@ -1,0 +1,98 @@
+    1  cd selenium
+    2  git init
+    3  git remote add origin https://github.com/marinkoco/QA.git
+    4  git remote -vv
+    5  git push origin master
+    6  git remote add origin https://https://github.com/marinkoco/QA.git
+    7  git remote add origin https://github.com/marinkoco/QA1.git
+    8  git remote -vv
+    9  git push origin master
+   10  git status
+   11  git branch -vv
+   12  git branch -vv
+   13  git status
+   14  git pull
+   15  git push
+   16  git remote add origin https://github.com/marinkoco/QA1.git
+   17  git remote add origin https://github.com/marinkoco/QA1.git
+   18  git remote add origin https://github.com/marinkoco/QA1.git
+   19  remote -v
+   20  remote vv
+   21  remote -vv
+   22  git remote rm origin
+   23  git remote add origin https://github.com/marinkoco/QA1.git
+   24  git remote -vv
+   25  git push origin master
+   26  git remote add origin https://github.com/marinkoco/JavaQA.git
+   27  git remote rm origin
+   28  git remote add origin https://github.com/marinkoco/JavaQA.git
+   29  git remote -vv
+   30  git push origin master
+   31  git remote rm origin
+   32  git remote add origin https://github.com/marinkoco/JavaQA.git
+   33  git push origin master
+   34  git remote -vv
+   35  git push origin master
+   36  git remote add origin https://github.com/marinkoco/JavaQA.git
+   37  git remote rm origin
+   38  git remote add origin https://github.com/marinkoco/JavaQA.git
+   39  git remote -vv
+   40  git push origin master
+   41  git remote rm origin
+   42  git remote add origin https://github.com/marinkoco/JavaQA.git
+   43  git remote -vv
+   44  git push origin master
+   45  git push origin master --force
+   46  git push origin master -f
+   47  git remote add origin https://github.com/marinkoco/JavaQA.git
+   48  git remote -vv
+   49  git push origin master
+   50  git status
+   51  git add .gitignore
+   52  git add SeleniumWebTesting/
+   53  git push origin master
+   54  git status
+   55  git push origin master
+   56  git commit -am
+   57  git commit -m "pih"
+   58  git remote add origin https://github.com/marinkoco/JavaQA.git
+   59  git push origin master --force
+   60  git init
+   61  git init
+   62  pwd
+   63  ls
+   64  ls-l
+   65  ls -l
+   66  cd Users
+   67  ls -l
+   68  cd LENOVO
+   69  cd Desktop
+   70  ls -l
+   71  cd ..
+   72  cd ../..
+   73  mkdir test123
+   74  ls l
+   75  ls
+   76  cd test123
+   77  touch test.txt
+   78  nano test.txt
+   79  cat test.txt
+   80  ls
+   81  man ls
+   82  history
+   83  history > istorija.txt
+   84  ls --help
+   85  rm test.txt
+   86  mkdir dir2
+   87  rmmidr dir2
+   88  rmdir ir2
+   89  rmdir dir2
+   90  history
+   91  tail istorija.txt
+   92  tail -n 3 istorija.txt
+   93  head istrija.txt
+   94*  istorija.txt
+   95  head -n 3 istorija.txt
+   96  date
+   97  time
+   98  history > istorija.txt
